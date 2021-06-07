@@ -1,0 +1,12 @@
+class User():
+    is_partner: bool
+    is_affiliate: bool
+    description: str
+    display_name: str
+    id: str
+    login_name: str
+    offline_image_url: str
+    profile_image_url: str
+    view_count: int
+    email: str
+    created_at: str
